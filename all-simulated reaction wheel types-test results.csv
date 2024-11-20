@@ -1,0 +1,541 @@
+rw_profile,inertia,MAX_THRES_SPEED,MAX_THRES_TORQUE,phase2_torque,phase2_duration,phase3_interval,max_velocity,time_to_stop,test_adequate,explanation
+small,0.0003,1257.0,0.005,0.0014,800,1500,1257.0,4060,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,150,3500,1257.0,1930,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0014,200,2500,800.05938,1598,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0011,450,2500,1217.812,1906,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,850,2500,1156.8048,1869,1,
+small,0.0003,1257.0,0.005,0.005,600,3500,1257.0,5494,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,350,1500,1257.0,3593,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,1350,2000,1257.0,5440,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,850,4000,1257.0,4669,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,500,2500,438.96493,1193,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0043,550,2000,1257.0,4006,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,400,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,550,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,350,3500,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,1400,1000,1257.0,4275,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.005,1300,4000,1257.0,4275,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,450,3500,1257.0,5820,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,450,2500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,700,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,1250,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,450,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,800,3000,1257.0,5375,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,1450,2500,1257.0,5836,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,350,1000,1257.0,2743,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0007,450,3500,753.83951,1556,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0014,1350,1500,1257.0,4457,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,1350,3500,1257.0,4514,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,750,3500,1257.0,6168,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,1200,1500,1257.0,4665,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,650,2500,1257.0,4654,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,850,3500,1257.0,5172,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,800,1000,1257.0,3393,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.005,300,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,200,4000,1037.1517,1787,1,
+small,0.0003,1257.0,0.005,0.0011,800,2000,1257.0,4710,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,900,4000,1257.0,4710,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,750,2000,1257.0,4492,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,700,1000,1257.0,3349,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1300,4000,1257.0,3349,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,300,1000,1257.0,3032,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,300,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,600,2000,1257.0,4097,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,650,4000,1257.0,6239,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,550,1000,1257.0,3120,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,400,3500,1257.0,5811,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,450,3500,1257.0,5866,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,400,2000,1257.0,3877,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,900,1000,1257.0,3699,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0004,1300,4000,1257.0,3699,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,1450,3000,1257.0,4450,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,650,2500,1257.0,4577,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,200,2000,1037.1517,1787,1,
+small,0.0003,1257.0,0.005,0.0043,800,3000,1257.0,5350,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0011,300,1000,881.9637,2874,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+small,0.0003,1257.0,0.005,0.0014,850,4000,1257.0,1931,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0011,400,1000,1112.4718,3142,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+small,0.0003,1257.0,0.005,0.0043,1300,3500,1257.0,4311,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1000,2000,1257.0,4792,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,1150,3000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,500,1000,1257.0,2997,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,850,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,400,1000,1257.0,3209,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,850,4000,1156.8048,1869,1,
+small,0.0003,1257.0,0.005,0.0007,750,2500,1073.2983,1813,1,
+small,0.0003,1257.0,0.005,0.0046,600,2000,1257.0,4112,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,350,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,250,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.005,1200,1500,1257.0,4767,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,500,1500,1257.0,3496,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,300,3000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,900,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,550,1000,1257.0,3111,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,1250,4000,1257.0,3111,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,350,3000,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,600,1500,1257.0,3655,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,450,4000,1257.0,6352,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.005,200,1000,1257.0,2495,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,300,1500,1257.0,3111,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,1050,4000,1257.0,3111,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1250,2000,1257.0,4919,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,1150,2500,1257.0,5566,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,300,2000,293.90644,950,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0039,350,3000,1257.0,5205,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0018,150,2000,800.5584,1599,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0046,900,1000,1257.0,3752,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,450,2000,1257.0,4300,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,1050,1000,1257.0,3742,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,600,1000,1257.0,3322,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,100,3000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,1050,1000,1257.0,3797,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,1300,1000,1257.0,4329,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,700,3000,1257.0,5195,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,350,4000,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,1050,2500,1257.0,5313,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,150,3000,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,1100,2500,1257.0,5402,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,100,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,1400,4000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,100,2000,894.85139,1679,1,
+small,0.0003,1257.0,0.005,0.0043,800,4000,1257.0,4759,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,1100,1500,1257.0,4544,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,850,3000,1257.0,5402,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,750,1000,1257.0,3313,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,550,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,150,2000,1257.0,4030,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,1000,4000,1257.0,4030,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,850,3000,1257.0,5398,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,1450,2500,1257.0,4938,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,1000,3500,1257.0,4810,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,250,4000,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,800,3000,1116.2968,1842,1,
+"small,0.0003,1257.0,0.005,0.0004,250,2500,251.9086,865,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0032,600,3500,1257.0,5881,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,200,2500,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,1000,1000,1257.0,3817,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,400,1500,1257.0,3735,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,150,3500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,900,1000,1194.9666,3742,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,450,2000,1257.0,3841,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1100,1500,1257.0,4182,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,1000,1500,1257.0,4365,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,1300,2500,1257.0,5702,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,1300,2500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,200,3500,1257.0,1930,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,1350,2000,1257.0,4994,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,1350,3000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,250,2000,1257.0,4158,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,800,1000,1257.0,3440,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,250,3000,972.00337,1739,1,
+small,0.0003,1257.0,0.005,0.0043,350,3500,1257.0,5740,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,900,1000,1257.0,3738,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0018,650,2500,1257.0,5037,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,850,1500,1257.0,3987,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,150,2000,1257.0,4056,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,900,4000,1257.0,4056,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,1250,1000,1257.0,4314,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,350,1000,1257.0,2720,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1150,4000,1257.0,2720,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,650,3500,1257.0,5961,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,900,3500,1257.0,6260,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,350,4000,1000.6551,1760,1,
+small,0.0003,1257.0,0.005,0.0039,900,1000,1257.0,3718,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,1000,2000,681.0314,1485,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0007,800,2500,1116.2968,1842,1,
+small,0.0003,1257.0,0.005,0.0011,750,2500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,850,2500,1257.0,1931,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,700,1500,553.34214,1344,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0043,100,2500,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,350,2000,1257.0,3695,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0043,250,2500,1257.0,4602,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0036,600,3500,1257.0,5712,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,950,4000,1257.0,5712,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0018,200,1500,1037.1517,3456,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+small,0.0003,1257.0,0.005,0.0032,950,1000,1257.0,3758,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,1250,2500,1257.0,5331,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,950,1500,1257.0,4106,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,250,1500,251.9086,865,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0029,600,1000,1257.0,3134,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0007,500,3000,815.27378,1612,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0025,700,1500,1257.0,3690,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,500,3000,1257.0,1931,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0004,1250,2000,757.54642,1560,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.0046,500,2500,1257.0,4382,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,900,3000,1257.0,5655,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0011,400,4000,1112.4718,1839,1,
+small,0.0003,1257.0,0.005,0.0029,650,3000,1257.0,5313,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,850,3500,1257.0,5298,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,350,4000,1257.0,6273,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,1050,3500,1257.0,5956,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0014,1250,3000,1257.0,6132,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0029,1350,1000,1257.0,4414,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0039,1450,3500,1257.0,4414,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,200,3500,1257.0,1931,0,Velocity reached maximum value!
+"small,0.0003,1257.0,0.005,0.0007,250,3500,467.93703,1233,0,""Velocity did not reach a high value, before passive rundown!"""
+small,0.0003,1257.0,0.005,0.005,650,2000,1257.0,4221,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0046,850,1000,1257.0,3661,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0025,600,3500,1257.0,6018,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0021,200,3500,1214.9709,1905,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0007,1100,2000,1257.0,1931,0,Velocity reached maximum value!
+small,0.0003,1257.0,0.005,0.0032,100,2500,989.06024,1752,1,
+"medium,0.0064,628.0,0.075,0.021,800,1500,161.10901,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,150,3500,356.03148,124,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.021,200,2500,151.39392,78,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,450,2500,105.36706,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.011,850,2500,49.999684,35,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.075,600,3500,628.0,160,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.038,350,1500,347.43336,123,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,1350,2000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.064,850,4000,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.005,500,2500,0.0,-10000,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,550,2000,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.032,400,4000,282.30546,111,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.027,550,4000,227.67763,99,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.038,350,3500,347.43336,123,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.011,1400,1000,50.0,35,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.075,1300,4000,50.0,35,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,450,3500,526.82923,148,1,
+"medium,0.0064,628.0,0.075,0.027,450,2500,227.3691,99,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,700,4000,105.54995,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.07,1250,4000,105.54995,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.032,450,3500,282.8245,111,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.07,800,3000,628.0,160,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.016,1450,2500,105.55556,62,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,350,1000,579.05514,154,1,
+"medium,0.0064,628.0,0.075,0.011,450,3500,49.912383,35,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.021,1350,1500,161.11111,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,1350,3500,405.55555,132,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.032,750,3500,283.32584,111,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,1200,1500,527.77775,148,1,
+medium,0.0064,628.0,0.075,0.07,650,2500,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.059,850,3500,583.32955,155,1,
+"medium,0.0064,628.0,0.075,0.032,800,1000,283.32963,111,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.075,300,4000,628.0,160,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.027,200,4000,214.03125,96,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,800,2000,105.55418,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,900,4000,105.55418,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.027,750,2000,227.77176,99,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,700,1000,527.74958,148,1,
+medium,0.0064,628.0,0.075,0.021,1300,4000,527.74958,148,1,
+"medium,0.0064,628.0,0.075,0.032,300,1000,279.13898,110,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,300,3500,454.27996,139,1,
+medium,0.0064,628.0,0.075,0.064,600,2000,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.048,650,4000,461.06134,140,1,
+medium,0.0064,628.0,0.075,0.07,550,1000,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.054,400,3500,525.86165,148,1,
+medium,0.0064,628.0,0.075,0.048,450,3500,460.2824,140,1,
+medium,0.0064,628.0,0.075,0.054,400,2000,525.86165,148,1,
+medium,0.0064,628.0,0.075,0.054,900,1000,527.77608,148,1,
+medium,0.0064,628.0,0.075,0.005,1300,4000,527.77608,148,1,
+medium,0.0064,628.0,0.075,0.07,1450,3000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.054,650,2500,527.72081,148,1,
+"medium,0.0064,628.0,0.075,0.027,200,2000,214.03125,96,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,800,3000,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.016,300,1000,104.00181,61,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.021,850,4000,161.11007,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,400,1000,105.17479,62,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,1300,3500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.021,1000,2000,161.11098,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,1150,3000,105.55555,62,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,500,1000,527.30821,148,1,
+"medium,0.0064,628.0,0.075,0.038,350,3000,347.43336,123,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,350,3500,457.72945,139,1,
+medium,0.0064,628.0,0.075,0.048,300,3000,454.27996,139,1,
+"medium,0.0064,628.0,0.075,0.011,750,2500,49.998711,35,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.07,250,4000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.075,1200,1500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.038,500,1500,349.68863,123,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,450,4000,582.28492,154,1,
+medium,0.0064,628.0,0.075,0.059,850,3000,583.32955,155,1,
+medium,0.0064,628.0,0.075,0.048,700,1000,461.08647,140,1,
+medium,0.0064,628.0,0.075,0.048,1200,1500,461.11109,140,1,
+"medium,0.0064,628.0,0.075,0.021,900,3500,161.1106,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.048,1250,4000,161.1106,81,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,700,1500,461.08647,140,1,
+medium,0.0064,628.0,0.075,0.064,350,1000,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.054,400,2500,525.86165,148,1,
+medium,0.0064,628.0,0.075,0.054,450,2500,526.82923,148,1,
+medium,0.0064,628.0,0.075,0.048,650,2500,461.06134,140,1,
+medium,0.0064,628.0,0.075,0.059,900,1000,583.33146,155,1,
+medium,0.0064,628.0,0.075,0.064,900,1000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.054,650,2000,527.72081,148,1,
+medium,0.0064,628.0,0.075,0.059,650,2000,583.27037,155,1,
+medium,0.0064,628.0,0.075,0.059,600,2000,583.20615,155,1,
+"medium,0.0064,628.0,0.075,0.032,600,1500,283.2716,111,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,650,4000,405.51178,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,700,4000,461.08647,140,1,
+medium,0.0064,628.0,0.075,0.059,950,1000,583.33241,155,1,
+medium,0.0064,628.0,0.075,0.048,600,3500,461.01058,140,1,
+medium,0.0064,628.0,0.075,0.054,1250,1000,527.77777,148,1,
+medium,0.0064,628.0,0.075,0.075,200,1000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.064,300,1500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.043,600,3500,405.46714,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,600,4000,461.01058,140,1,
+medium,0.0064,628.0,0.075,0.048,550,4000,460.90803,140,1,
+"medium,0.0064,628.0,0.075,0.043,350,4000,402.5814,132,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.048,1050,4000,402.5814,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,600,3500,527.66271,148,1,
+"medium,0.0064,628.0,0.075,0.027,150,2000,200.00902,92,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,650,3500,527.72081,148,1,
+"medium,0.0064,628.0,0.075,0.021,1250,2000,161.11111,81,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,650,3500,583.27037,155,1,
+"medium,0.0064,628.0,0.075,0.016,1150,2500,105.55555,62,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,650,4000,583.27037,155,1,
+"medium,0.0064,628.0,0.075,0.005,300,2000,0.0,-10000,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,700,3500,583.30216,155,1,
+medium,0.0064,628.0,0.075,0.048,650,1000,461.06134,140,1,
+medium,0.0064,628.0,0.075,0.059,600,3500,583.20615,155,1,
+medium,0.0064,628.0,0.075,0.064,650,4000,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.059,350,3000,579.05514,154,1,
+medium,0.0064,628.0,0.075,0.07,900,1000,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.064,650,3500,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.064,350,3500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.027,1050,1000,227.77769,99,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,650,1500,405.51178,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,950,1000,461.11038,140,1,
+"medium,0.0064,628.0,0.075,0.021,600,1000,161.07607,81,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,100,3000,481.27624,143,1,
+medium,0.0064,628.0,0.075,0.064,100,3500,481.27624,143,1,
+medium,0.0064,628.0,0.075,0.064,150,3500,560.86497,152,1,
+medium,0.0064,628.0,0.075,0.064,100,2500,481.27624,143,1,
+medium,0.0064,628.0,0.075,0.059,150,3000,512.09509,146,1,
+"medium,0.0064,628.0,0.075,0.043,1300,1000,405.55555,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,1050,2500,583.33311,155,1,
+medium,0.0064,628.0,0.075,0.059,1100,2500,583.33322,155,1,
+medium,0.0064,628.0,0.075,0.07,700,3000,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.059,200,3500,548.06785,151,1,
+medium,0.0064,628.0,0.075,0.054,200,3500,495.87145,144,1,
+"medium,0.0064,628.0,0.075,0.059,100,3000,439.42813,137,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,1000,1000,405.55524,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,450,3000,582.28492,154,1,
+medium,0.0064,628.0,0.075,0.054,250,3500,511.983,146,1,
+medium,0.0064,628.0,0.075,0.054,250,3000,511.983,146,1,
+"medium,0.0064,628.0,0.075,0.032,450,2000,282.8245,111,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,500,2000,527.30821,148,1,
+medium,0.0064,628.0,0.075,0.048,450,2000,460.2824,140,1,
+medium,0.0064,628.0,0.075,0.064,1000,1500,628.0,159,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.011,1400,4000,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.043,100,2000,305.51418,116,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.032,1050,1000,283.33322,111,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,300,4000,519.95879,147,1,
+medium,0.0064,628.0,0.075,0.048,250,2500,447.31181,138,1,
+medium,0.0064,628.0,0.075,0.064,450,3500,628.0,160,0,Velocity reached maximum value!
+medium,0.0064,628.0,0.075,0.064,1100,1500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.016,550,3500,105.50936,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,500,3500,405.19475,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.07,150,2000,619.38883,158,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.043,600,2500,405.46714,132,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.064,1000,4000,405.46714,132,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.011,800,3000,49.999362,35,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.038,850,3000,349.99773,123,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,1450,2500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.038,250,4000,339.52651,122,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,350,4000,579.05514,154,1,
+"medium,0.0064,628.0,0.075,0.005,250,2500,0.0,-10000,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.07,1000,3500,628.0,160,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.038,200,2500,328.84296,120,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,700,2500,583.30216,155,1,
+medium,0.0064,628.0,0.075,0.059,150,3500,512.09509,146,1,
+"medium,0.0064,628.0,0.075,0.027,400,1500,226.95223,99,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,550,3000,527.54533,148,1,
+"medium,0.0064,628.0,0.075,0.011,900,1000,49.999844,35,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.07,450,2000,628.0,160,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.021,1100,1500,161.11108,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.016,1300,2500,105.55555,62,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.027,1350,2000,227.77778,99,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,800,4000,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.011,1350,3000,50.0,35,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.038,250,2000,339.52651,122,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.043,600,1000,405.46714,132,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.048,900,1500,461.10963,140,1,
+"medium,0.0064,628.0,0.075,0.043,900,1500,405.55425,132,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.027,650,2500,227.75324,99,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.059,150,2000,512.09509,146,1,
+"medium,0.0064,628.0,0.075,0.011,850,4000,49.999684,35,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.038,800,1000,349.99542,123,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.064,550,3500,628.0,159,0,Velocity reached maximum value!
+"medium,0.0064,628.0,0.075,0.032,750,1000,283.32584,111,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.021,400,1000,160.52755,81,0,""Velocity did not reach a high value, before passive rundown!"""
+"medium,0.0064,628.0,0.075,0.021,250,3000,156.30075,80,0,""Velocity did not reach a high value, before passive rundown!"""
+medium,0.0064,628.0,0.075,0.054,1000,1500,527.77736,148,1,
+"heavy,0.108,628.0,0.17,0.049,800,1500,229.75111,3932,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,150,3500,118.13998,1101,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,200,2500,72.561162,773,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,450,2500,102.57273,999,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,850,2500,98.815207,974,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.17,600,3500,628.0,2664,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.085,350,1500,220.59852,3436,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,1350,2000,628.0,5820,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.146,850,4000,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.012,500,2500,21.4325,251,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,550,2000,569.63781,5055,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.073,400,4000,209.39831,1571,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,550,4000,222.59274,1626,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,350,3500,220.59852,1618,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1400,1000,133.97457,3577,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.17,1300,4000,133.97457,3577,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.121,450,3500,397.68037,2186,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,450,2500,189.33625,1483,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,700,4000,144.90857,1260,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.158,1250,4000,144.90857,1260,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.073,450,3500,230.99332,1660,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.158,800,3000,628.0,6459,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.036,1450,2500,229.89495,1656,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.134,350,1000,358.25297,3190,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,450,3500,60.983184,673,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,1350,1500,318.89885,4785,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.097,1350,3500,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,750,3500,343.27301,2039,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.121,1200,1500,628.0,5221,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.158,650,2500,628.0,5790,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.134,850,3500,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,800,1000,359.41831,3737,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.17,300,4000,401.67974,2196,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,200,4000,92.995416,931,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,800,2000,159.52999,1338,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,900,4000,159.52999,1338,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,750,2000,281.35346,1845,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.121,700,1000,562.04458,4035,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.049,1300,4000,562.04458,4035,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.073,300,1000,163.4128,2551,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,300,3500,251.83164,1740,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,600,2000,609.61935,5176,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.109,650,4000,476.11397,2371,1,
+heavy,0.108,628.0,0.17,0.158,550,1000,618.63766,3942,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.121,400,3500,360.49515,2087,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,450,3500,356.00433,2074,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.121,400,2000,360.49515,4469,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.121,900,1000,628.0,4373,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.012,1300,4000,628.0,4373,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.158,1450,3000,628.0,6910,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.121,650,2500,531.85255,2487,1,
+"heavy,0.108,628.0,0.17,0.061,200,2000,92.995416,931,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,800,3000,628.0,2664,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.036,300,1000,72.609211,773,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,850,4000,239.64649,1695,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,400,1000,92.998041,931,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,1300,3500,628.0,7458,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.049,1000,2000,266.97486,1795,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,1150,3000,202.09373,1540,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.121,500,1000,433.34804,3545,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,750,2500,90.504639,914,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,350,3500,288.01234,1867,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.158,250,4000,316.44473,1958,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.17,1200,1500,628.0,4935,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.085,500,1500,297.1201,3832,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,300,3000,251.83164,1740,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,900,3500,249.13803,1731,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,1250,4000,249.13803,1731,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,350,3000,220.59852,1618,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.073,600,1500,290.63292,3920,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.134,450,4000,442.82947,2296,1,
+"heavy,0.108,628.0,0.17,0.17,200,1000,278.78003,2798,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,800,2500,94.746479,945,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,150,2000,71.19958,762,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,300,1500,342.71927,3736,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,1050,4000,342.71927,3736,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,1250,2000,305.57443,1925,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,1150,2500,202.09373,1540,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,300,2000,14.23637,155,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.134,350,3000,358.25297,2080,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.158,900,1000,628.0,4212,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.061,1050,1000,353.06671,4004,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,600,1000,185.78827,2974,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,100,3000,123.88889,1137,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.097,1300,1000,628.0,4833,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.158,700,3000,628.0,2664,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,450,2000,230.99332,1660,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,350,4000,254.30557,1749,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.134,1050,2500,628.0,6173,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,1050,1000,430.78294,4189,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.134,150,3000,166.41111,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.134,1100,2500,628.0,6219,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.024,1400,4000,628.0,6219,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.097,100,2000,80.402295,836,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,100,3500,123.88889,1137,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,1100,1500,628.0,5034,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.146,800,4000,628.0,2664,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.134,850,3000,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,750,1000,343.27301,3639,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,550,3500,120.56581,1117,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.158,150,2000,197.72013,1520,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,800,3000,94.746479,945,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,1000,4000,94.746479,945,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,400,1000,133.88162,2537,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.085,850,3000,442.54684,2296,1,
+heavy,0.108,628.0,0.17,0.146,1450,2500,628.0,6485,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.085,250,4000,164.00397,1360,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,250,2500,12.241995,127,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.109,600,3500,447.93642,2308,1,
+"heavy,0.108,628.0,0.17,0.146,150,3500,182.06168,1449,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,100,2500,123.88889,1137,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.097,1350,1000,628.0,4883,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.158,850,1000,628.0,4184,0,Velocity reached maximum value!
+heavy,0.108,628.0,0.17,0.158,1000,3500,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.085,200,2500,133.88821,1197,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,1000,1000,568.39202,4401,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.061,400,1500,171.63942,1399,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,900,1000,102.71789,2889,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.158,450,2000,526.17485,4872,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.049,1100,1500,283.38553,4420,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,1000,1500,628.0,4963,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.036,1300,2500,216.862,1603,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1300,2500,128.71949,1167,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.109,550,4000,418.55999,2238,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.134,200,3500,217.40941,1605,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,1350,2000,408.91704,5552,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1350,3000,131.40177,1183,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,250,2000,164.00397,1360,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1300,3000,128.71949,1167,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.134,150,3500,166.41111,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,850,4000,98.815207,974,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,800,1000,424.26548,3888,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,250,3000,88.862291,901,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,350,3500,391.96147,2171,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.146,900,1000,628.0,4276,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.061,650,2500,253.19018,1745,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,850,1500,510.18437,4707,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.134,150,2000,166.41111,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,900,4000,166.41111,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.121,1250,1000,628.0,4669,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.109,350,1000,288.01234,3013,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,1150,4000,288.01234,3013,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,650,3500,420.38217,2242,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.073,900,3500,389.7591,2166,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,350,4000,83.015979,857,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,1000,2000,34.953358,413,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,700,1500,27.523892,326,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,350,2000,391.96147,4493,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.146,250,2500,291.38196,1878,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.121,600,3500,500.37594,2423,1,
+heavy,0.108,628.0,0.17,0.109,950,4000,500.37594,2423,1,
+"heavy,0.108,628.0,0.17,0.073,900,3000,389.7591,2166,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,450,2000,189.33625,1483,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,650,3000,420.38217,2242,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.109,950,1000,622.68217,4434,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.049,1300,2000,312.37542,1946,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1400,1500,133.97457,1198,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.073,1250,2500,478.08283,2376,1,
+"heavy,0.108,628.0,0.17,0.134,100,3000,113.24299,1070,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,950,1500,476.90179,4748,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+"heavy,0.108,628.0,0.17,0.036,350,1500,83.015979,857,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,250,1500,12.241995,127,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.097,600,1000,395.50395,3586,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.049,1100,4000,395.50395,3586,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.061,200,1500,92.995416,931,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,500,3000,66.429723,722,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,250,3500,164.00397,1360,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.085,700,1500,385.34839,4277,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.109,1050,3500,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.073,500,3000,251.70703,1739,0,""Velocity did not reach a high value, before passive rundown!"""
+heavy,0.108,628.0,0.17,0.17,650,3500,628.0,2665,0,Velocity reached maximum value!
+"heavy,0.108,628.0,0.17,0.036,850,4000,166.39627,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.012,1250,2000,39.872681,466,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.158,500,2500,573.36927,5557,0,"" Time interval for passive rundown not enough, before negative torque is applied!"""
+heavy,0.108,628.0,0.17,0.109,850,3500,577.82171,2576,1,
+"heavy,0.108,628.0,0.17,0.158,350,4000,425.67664,2255,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.073,1050,3500,430.78294,2268,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.036,850,3500,166.39627,1373,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.024,1350,2000,131.40177,1183,0,""Velocity did not reach a high value, before passive rundown!"""
+"heavy,0.108,628.0,0.17,0.073,950,3000,404.00728,2203,0,""Velocity did not reach a high value, before passive rundown!"""
